@@ -6,3 +6,6 @@ console.log(score);
 
 let points = 78;
 console.log(points);
+
+let p;
+console.log(p);
